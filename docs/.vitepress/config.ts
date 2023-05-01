@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'uvi site',
   description: 'font end of uvi.',
   lastUpdated: true, // 开启上次更新时间
-  base: '/',
+  base: '/Young/',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
   ],
