@@ -11,35 +11,21 @@ export default defineConfig({
   themeConfig: {
     // Type is `DefaultTheme.Config`
     logo: 'logo.svg',
-    siteTitle: "Young's Site",
-    nav: [
-      { text: '主页', link: '/' },
-      { text: '开发指南', link: '/guide/' },
-      { text: '项目集', link: '/project-pool/' },
-      { text: '官方文档', link: '/official-document/' }
-    ],
+    siteTitle: "Young",
+    nav: [],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yanghui23' }
+      { icon: 'github', link: 'https://github.com/yanghui23/Young' }
     ],
     sidebar: {
-      '/guide/': [
-        {
-          text: '开发指南',
-          items: [
-            { text: '简介', link: '/guide/' },
-            { text: '开发规范', link: '/guide/development-style' },
-          ],
-        },
-      ],
-      '/project-pool/': [
-        {
-          text: '项目集',
-          items: [
-            { text: '简介', link: '/project-pool/' },
-            { text: '项目端口配置', link: '/project-pool/project-port' },
-          ],
-        },
-      ]
+      // '/guide/': [
+      //   {
+      //     text: '开发指南',
+      //     items: [
+      //       { text: '简介', link: '/guide/' },
+      //       { text: '开发规范', link: '/guide/development-style' },
+      //     ],
+      //   },
+      // ]
     },
     footer: {
       message: 'Released under the MIT License.',

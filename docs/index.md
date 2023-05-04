@@ -2,29 +2,38 @@
 layout: home
 
 hero:
-  name: front end of uvi
-  text: 因为你，什么会变得不一样？ 👊
+  name: Young's Space
+  text: 
   image:
     src: /home.svg
     alt: on the way
   actions:
-    - theme: brand
-      text: 开发指南
-      link: /guide/
-    - theme: alt
-      text: 项目集
-      link: /project-pool/
 
 features:
-  - icon: ⚡️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-  - icon: 🖖
-    title: Another cool feature
-    details: Lorem ipsum...
-  - icon: 🛠️
-    title: Another cool feature
-    details: Lorem ipsum...
+  - icon: 🥷
+    title: 关于我
+    details: ... ...
+    link: /about-me/
+  - icon: 🦧
+    title: 博客文章 - 程序猿
+    details: ... ...
+    link: /blog-ape/
+  - icon: 👋
+    title: 资源分享 - 程序猿
+    details: ... ...
+    link: /resource-share-ape/
+  - icon: 🔥
+    title: 旅行日志
+    details: 待开放
+    link: /
+  - icon: 🌎
+    title: 语言学习
+    details: 待开放
+    link: /
+  - icon: 🧊
+    title: 其它
+    details: 待开放
+    link: /
 ---
 
 <style>
