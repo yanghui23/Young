@@ -15,11 +15,11 @@ features:
     details: ... ...
     link: /about-me/
   - icon: 🦧
-    title: 博客文章 - 程序猿
+    title: 博客文章 - 搬砖
     details: ... ...
     link: /blog-ape/
   - icon: 👋
-    title: 资源分享 - 程序猿
+    title: 资源分享 - 搬砖
     details: ... ...
     link: /resource-share-ape/
   - icon: 🔥
