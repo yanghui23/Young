@@ -10,15 +10,15 @@ hero:
   actions:
 
 features:
-  - icon: 🥷
+  - icon: 😤
     title: 关于我
     details: ... ...
     link: /about-me/
-  - icon: 🦧
+  - icon: 👋
     title: 博客文章
     details: ... ...
     link: /blog-ape/
-  - icon: 👋
+  - icon: 🛠️
     title: 资源导航
     details: ... ...
     link: /resource-share-ape/
