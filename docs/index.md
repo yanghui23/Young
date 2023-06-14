@@ -15,25 +15,25 @@ features:
     details: ... ...
     link: /about-me/
   - icon: 🦧
-    title: 博客文章 - 搬砖
+    title: 博客文章
     details: ... ...
     link: /blog-ape/
   - icon: 👋
-    title: 资源分享 - 搬砖
+    title: 资源导航
     details: ... ...
     link: /resource-share-ape/
-  - icon: 🔥
-    title: 旅行日志
-    details: 待开放
-    link: /
-  - icon: 🌎
-    title: 语言学习
-    details: 待开放
-    link: /
-  - icon: 🧊
-    title: 其它
-    details: 待开放
-    link: /
+#  - icon: 🔥
+#    title: 旅行日志
+#    details: 待开放
+#    link: /
+#  - icon: 🌎
+#    title: 语言学习
+#    details: 待开放
+#    link: /
+#  - icon: 🧊
+#    title: 其它
+#    details: 待开放
+#    link: /
 ---
 
 <style>

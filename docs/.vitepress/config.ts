@@ -17,15 +17,24 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/yanghui23/Young' }
     ],
     sidebar: {
-      // '/guide/': [
-      //   {
-      //     text: '开发指南',
-      //     items: [
-      //       { text: '简介', link: '/guide/' },
-      //       { text: '开发规范', link: '/guide/development-style' },
-      //     ],
-      //   },
-      // ]
+      '/blog-ape/': [
+        {
+          text: '博客文章',
+          items: [
+            { text: '简介', link: '/blog-ape/' },
+            { text: '系列', link: '/blog-ape/collect' },
+          ],
+        },
+      ],
+      '/resource-share-ape/': [
+        {
+          text: '资源导航',
+          items: [
+            { text: '简介', link: '/resource-share-ape/' },
+            { text: '官方文档', link: '/resource-share-ape/dev-doc' },
+          ],
+        },
+      ]
     },
     footer: {
       message: 'Released under the MIT License.',
